@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple",
+  "family_name": "Maple-zc",
   "use_hinted": true,
   "pool_size": 4,
   "enable_ligature": true,
@@ -10,13 +10,13 @@
   "remove_tag_liga": false,
   "weight_mapping": {
     "thin": 100,
-    "extralight": 150,
-    "light": 250,
-    "regular": 350,
-    "medium": 450,
-    "semibold": 550,
-    "bold": 650,
-    "extrabold": 750
+    "extralight": 200,
+    "light": 300,
+    "regular": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700,
+    "extrabold": 800
   },
   "line_height": 1.0,
   "feature_freeze": {
