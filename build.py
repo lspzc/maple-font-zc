@@ -320,8 +320,8 @@ class FontConfig:
         # when run in codespace, this will be 1
         self.pool_size = 1 if not getenv("CODESPACE_NAME") else 4
         # font family name
-        self.family_name = "Maple ZC"
-        self.family_name_compact = "MapleZC"
+        self.family_name = "Maple"
+        self.family_name_compact = "Maple"
         # whether to use hinted ttf as base font
         self.use_hinted = True
         # whether to enable ligature
