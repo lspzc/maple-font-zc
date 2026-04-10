@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple",
+  "family_name": "Maple Mono",
   "use_hinted": false,
   "pool_size": 4,
   "enable_ligature": true,
@@ -84,7 +84,7 @@
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
-    "narrow": true,
+    "narrow": false,
     "use_hinted": false,
     "use_static_base_font": true,
     "scale_factor": 1.0
