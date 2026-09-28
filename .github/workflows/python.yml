@@ -6,7 +6,6 @@ on:
       - "variable"
     paths:
       - "**.py"
-      - "config.json"
       - "pyproject.toml"
       - "requirements.txt"
       - "uv.lock"
