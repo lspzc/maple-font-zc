@@ -83,7 +83,7 @@
     "zero": "ignore"
   },
   "nerd_font": {
-    "enable": false,
+    "enable": true,
     "version": "3.5.0",
     "mono": false,
     "propo": false,
@@ -103,7 +103,7 @@
       "kr": false,
       "custom": []
     },
-    "with_nerd_font": false,
+    "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
