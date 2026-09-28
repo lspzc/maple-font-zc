@@ -7,7 +7,7 @@
     "otf",
     "woff2"
   ],
-  "use_hinted": true,
+  "use_hinted": false,
   "standard_zero": false,
   "pool_size": 4,
   "ttfautohint_param": {},
@@ -103,7 +103,7 @@
       "kr": false,
       "custom": []
     },
-    "with_nerd_font": true,
+    "with_nerd_font": false,
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
