@@ -1,6 +1,6 @@
 {
   "$schema": "./sources/schema.json",
-  "family_name": "Maple",
+  "family_name": "Maple Mono",
   "font_version": "8.003",
   "formats": [
     "ttf",
@@ -97,7 +97,7 @@
   "cjk": {
     "variable": false,
     "locales": {
-      "cn": true,
+      "cn": false,
       "jp": false,
       "tc": false,
       "kr": false,
