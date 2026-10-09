@@ -83,7 +83,7 @@
     "zero": "ignore"
   },
   "nerd_font": {
-    "enable": false,
+    "enable": true,
     "version": "3.5.0",
     "mono": false,
     "propo": false,
